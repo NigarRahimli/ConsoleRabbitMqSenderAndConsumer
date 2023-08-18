@@ -1,0 +1,17 @@
+C:\Users\User\Desktop\RabbitMq\Sender\Sender\bin\Debug\net7.0\Sender.exe
+C:\Users\User\Desktop\RabbitMq\Sender\Sender\bin\Debug\net7.0\Sender.deps.json
+C:\Users\User\Desktop\RabbitMq\Sender\Sender\bin\Debug\net7.0\Sender.runtimeconfig.json
+C:\Users\User\Desktop\RabbitMq\Sender\Sender\bin\Debug\net7.0\Sender.dll
+C:\Users\User\Desktop\RabbitMq\Sender\Sender\bin\Debug\net7.0\Sender.pdb
+C:\Users\User\Desktop\RabbitMq\Sender\Sender\bin\Debug\net7.0\RabbitMQ.Client.dll
+C:\Users\User\Desktop\RabbitMq\Sender\Sender\obj\Debug\net7.0\Sender.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\RabbitMq\Sender\Sender\obj\Debug\net7.0\Sender.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\RabbitMq\Sender\Sender\obj\Debug\net7.0\Sender.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\RabbitMq\Sender\Sender\obj\Debug\net7.0\Sender.AssemblyInfo.cs
+C:\Users\User\Desktop\RabbitMq\Sender\Sender\obj\Debug\net7.0\Sender.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\RabbitMq\Sender\Sender\obj\Debug\net7.0\Sender.csproj.CopyComplete
+C:\Users\User\Desktop\RabbitMq\Sender\Sender\obj\Debug\net7.0\Sender.dll
+C:\Users\User\Desktop\RabbitMq\Sender\Sender\obj\Debug\net7.0\refint\Sender.dll
+C:\Users\User\Desktop\RabbitMq\Sender\Sender\obj\Debug\net7.0\Sender.pdb
+C:\Users\User\Desktop\RabbitMq\Sender\Sender\obj\Debug\net7.0\Sender.genruntimeconfig.cache
+C:\Users\User\Desktop\RabbitMq\Sender\Sender\obj\Debug\net7.0\ref\Sender.dll
